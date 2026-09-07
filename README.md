@@ -1,6 +1,6 @@
 # OrphanGuard
 
-Some Windows applications sneakily (or lazily) leave processes behind after their parent app has been closed. Consequences range from mild annoyance (memory bloat) to actual workflow problems (Citrix leaves processes behind that interferes with subsequent connection attempts).
+Some Windows applications sneakily (or lazily) leave processes behind after their parent app has been closed. Consequences range from mild annoyance (memory bloat) to actual workflow problems (Citrix leaves processes behind that interfere with subsequent connection attempts).
 
 This utility makes it easy to detect and clean them up, working directly from your system tray.
 
