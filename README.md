@@ -22,7 +22,7 @@ Windows system tray app that detects and cleans up orphaned processes — applic
 ## Setup
 
 ```
-git clone https://github.com/YOUR_USERNAME/orphan-guard.git
+git clone https://github.com/michaelv2/orphan-guard.git
 cd orphan-guard
 ```
 
