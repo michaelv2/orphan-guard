@@ -1,6 +1,8 @@
 # OrphanGuard
 
-Windows system tray app that detects and cleans up orphaned processes — application processes left running after their parent app has been closed.
+Some Windows applications are sneakily (or lazily) left behind after their parent app has been closed.
+
+This utility makes it easy to detect them and clean them up, working directly from the system tray.
 
 ## Features
 
