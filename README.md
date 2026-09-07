@@ -1,8 +1,8 @@
 # OrphanGuard
 
-Some Windows applications are sneakily (or lazily) left behind after their parent app has been closed.
+Some Windows applications sneakily (or lazily) leave processes behind after their parent app has been closed.
 
-This utility makes it easy to detect them and clean them up, working directly from the system tray.
+This utility makes it easy to detect and clean them up, working directly from your system tray.
 
 ## Features
 
